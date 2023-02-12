@@ -2,15 +2,15 @@ import { NavLink as Link } from 'react-router-dom';
 import styled from 'styled-components';
 
 export const Nav = styled.nav`
-  background: #000;
+  background: #000000e6;
   height: 80px;
   display: flex;
   padding: 0.2rem;
   sticky:true;
-  z-index: -10;
+  z-index: 10;
 
   @media screen and (max-width: 768px) {
-    height: 180px;
+    height: 380px;
    
   }
 `;

@@ -15,7 +15,7 @@ export default class Home extends Component {
         }}
       >
       
-        <img src={require('../img/logo.svg')} alt='logo' style={{height:'20vh',width:'20wh',padding:'10px'}} />
+        <img src={require('../img/logo.svg')} alt='logo' style={{height:'20vh',width:'20wh',padding:'10px'}} className="img-fluid" />
         <h2 style={{textDecoration: 'underline'}}>ABISS: Advanced Biometric Identification Security System</h2>
 
         <div className="row"
@@ -41,7 +41,7 @@ export default class Home extends Component {
                     </ul> 
                     </p>
               </div>
-        <div className="col-5"><img src={require('../img/homeimg1.svg')} alt='logo' style={{height:'40vh',width:'40wh',padding:'10px'}} /></div>
+        <div className="col-5"><img src={require('../img/homeimg1.svg')} alt='logo' className="img-fluid" style={{height:'40vh',width:'40wh',padding:'10px'}} /></div>
 
         </div>
 
@@ -53,7 +53,7 @@ export default class Home extends Component {
             margin: '30px 0px 30px 0px',
           }}
         >
-        <div className="col-5"><img src={require('../img/homeimg2.svg')} alt='logo' style={{height:'40vh',width:'40wh',padding:'10px'}} /></div>
+        <div className="col-5"><img src={require('../img/homeimg2.svg')} alt='logo' className="img-fluid" style={{height:'40vh',width:'40wh',padding:'10px'}} /></div>
 
         <div className="col-7">
 

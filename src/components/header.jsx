@@ -24,6 +24,9 @@ class Header extends Component {
           <NavLink to='/camera' activeStyle>
             Webcam Input
           </NavLink>
+          <NavLink to='/testimage' activeStyle>
+            Test Images
+          </NavLink>
         </NavMenu>
       </Nav>
     </header>
