@@ -1,5 +1,4 @@
-# ABISS-HackBrewer
-HackBrewer project prototype submission
+
 
 # 🛡️ABISS: Advanced Biometric Identification Security System
 <img src="https://github.com/Khushii-Arora/ABISS-HTM3.0/blob/main/ABISS-Frontend/src/img/logo3.png" />
@@ -7,12 +6,7 @@ HackBrewer project prototype submission
 ### 📚 Selected Theme
 Open Innovation
 
-## 📚 Sponsorship Tracks
-- **All Girls Team**
-- **GoDaddy Registry: ABISS Security Solutions**
-(Note: we were not able to avail GoDaddy domain name because coupon limit was reached, therefore mentioning our domain name here as told by the organising team.)
-- **juicebox**
-- **Godspeed**
+
 
 
 ## How to Use
@@ -20,7 +14,7 @@ Open Innovation
 **clone the repository:()**
 
 ```bash
-git clone https://github.com/Khushii-Arora/ABISS-HTM3.0.git
+git clone https://github.com/sherry24/ABISSS.git
 ```
 
 **In the project directory, you can run:**
